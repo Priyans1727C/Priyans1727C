@@ -2,9 +2,6 @@
 
 👨‍🎓 2nd-Year CSE Student | 🖥️ Passionate Coder | 🌐 Web Enthusiast
 
-🌟 About Me:
-I'm a dedicated Computer Science and Engineering student currently in my second year of studies. My journey in the world of technology began with a curiosity for coding, and it has since grown into a deep passion for solving problems and building innovative solutions.
-
 🚀 What I Do:
 - 💻 Coding: I love turning ideas into code and bringing them to life through software development.
 - 🌐 Web Development: Front-end and back-end, I enjoy creating web applications that are both functional and user-friendly.
@@ -22,8 +19,4 @@ Let's connect and collaborate on exciting projects! Feel free to reach out to me
 
 📫 Contact Me:
 - GitHub: github.com/Priyans1727C
-- LinkedIn: 
-- Twitter: 
-- Email: 
-
 🤝 Let's code the future together! 🚀
