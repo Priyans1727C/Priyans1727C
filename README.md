@@ -14,9 +14,5 @@ I'm proficient in various programming languages and technologies, including:
 - Databases: MySQL
 - Tools: Git, Linux, VS Code
 
-🌐 Get in Touch:
-Let's connect and collaborate on exciting projects! Feel free to reach out to me on GitHub or through my social media links below.
 
-📫 Contact Me:
-- GitHub: github.com/Priyans1727C
 🤝 Let's code the future together! 🚀
